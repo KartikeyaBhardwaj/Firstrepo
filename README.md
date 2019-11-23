@@ -1,8 +1,3 @@
-# Firstrepo
-First repo, experiment
+Testing action workflow on GitHub
 
-First commit, this is it. I need this to be soft dev good
-
-2nd commit message, Hypnotized by Coldplay
-
-Pull up on the demon gone course
+Now, an action workflow must be triggered once I push this commit
